@@ -103,7 +103,7 @@ public void UpdateProgress(float percentage, string statusText = null)
 
 点击主机界面的“执行运算”，弹出加载中窗体
 
-![loading](\Pic\loading.png)
+![loading](Pic\loading.png)
 
 ## 注意事项
 
